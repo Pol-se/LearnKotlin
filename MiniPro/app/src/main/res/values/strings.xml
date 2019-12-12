@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MiniPro</string>
+    <string name="wel">WELCOME TO</string>
+    <string name="math">Math GAME</string>
+    <string name="ready">Are you Ready !</string>
+    <string name="Click">Click Start</string>
+    <string name="start">START</string>
+    <string name="welcome">Welcome to Math game</string>
+    <string name="choose">Choose</string>
+    <string name="txt_check">CHECK ANSWER</string>
+    <string name="again">Try again</string>
+    <string name="Again">Play Again</string>
+    <string name="opera">symbol</string>
+</resources>
